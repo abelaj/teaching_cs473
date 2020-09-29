@@ -38,6 +38,6 @@ public class ExampleController {
 
     @GetMapping("/name")
     public String name(){
-      return "Hello World! This is Ali Belaj, 23298646 ia Docker";
+      return "Hello World! This is Ali Belaj, 23298646 via Docker";
     }
 }
